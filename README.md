@@ -11,19 +11,12 @@
 
 ### 📊 **Tech Stack & Skills**
 - 🐍 Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
-- 🛢️ SQL (PostgreSQL, MySQL)  
+- 🛢️ SQL (PostgreSQL, MySQL)
+- 🌐 Web Development (HTML, CSS, JavaScript)  
 - 📈 Statistics & Machine Learning  
-- 🎨 Digital Art (Illustrator)  
-- 📊 Data Visualization
-- 🤖 Predictive Modeling
+- 🎨 Digital Art (Illustrator)
+- 🖥️ Cross-Platform Apps (Electron.js)
   
----
-
-### 🎯 **Currently Exploring**
-- Advanced Machine Learning & AI  
-- Data Analytics & Business Intelligence  
-- Creativity 
-
 ---
 
 ### 🌎 **Let's Connect!**
