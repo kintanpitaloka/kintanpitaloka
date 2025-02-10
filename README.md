@@ -36,10 +36,9 @@
 ---
 
 ### 🌎 **Let's Connect!**
-💌 Email: [kintanpitaloka529@gmail.com](mailto:kintanpitaloka529@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/kintanpitaloka](#)  
-🎨 Instagram (Design): [@kintanp.design](#) *(optional)*  
-📸 Microstock: [Shutterstock Profile](#) *(optional)*  
+💌 Email: [kintanpitaloka529@gmail.com]
+💼 LinkedIn: [linkedin.com/in/kintanpitaloka]
+🎨 piterest : [pinterest.com/kintanpitalokaa]
 
 ---
 
