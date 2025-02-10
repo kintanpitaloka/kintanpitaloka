@@ -16,7 +16,7 @@
 - 🎨 Digital Art (Illustrator)  
 - 📊 Data Visualization
 - 🤖 Predictive Modeling
-- 
+  
 ---
 
 ### 🎯 **Currently Exploring**
@@ -35,7 +35,6 @@
 
 ### 📌 **Portfolio & Projects**
 🚀 Check out my projects below!  
-🔗 [Portfolio Website](#) *(coming soon!)*  
 📂 [GitHub Repositories](https://github.com/kintanpitaloka) 
 
 ---
