@@ -22,7 +22,7 @@
 ### 🌎 **Let's Connect!**
 💌 Email: [kintanpitaloka529@gmail.com](#)
 💼 LinkedIn: [linkedin.com/in/kintanpitaloka](#)
-🎨 pinterest:[pinterest.com/kintanpitalokaa](#)
+🎨 pinterest:[pinterest.com/kintanpitalokaaa](#)
 
 ---
 
