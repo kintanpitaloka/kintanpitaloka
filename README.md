@@ -38,7 +38,7 @@
 ### 🌎 **Let's Connect!**
 💌 Email: [kintanpitaloka529@gmail.com](#)
 💼 LinkedIn: [linkedin.com/in/kintanpitaloka](#)
-🎨 piterest : [pinterest.com/kintanpitalokaa](#)
+🎨 pinterest:[pinterest.com/kintanpitalokaa](#)
 
 ---
 
