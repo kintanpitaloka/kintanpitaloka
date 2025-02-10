@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Kintan Pitaloka! 👋</h1>
+<p align="center">
+  🎯 <b>Data Scientist | Statistician | Digital Creator | Code Explorer </b>  
+</p>
 
-<!--
-**kintanpitaloka/kintanpitaloka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 **Tech Stack & Skills**
+- 🐍 Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
+- 🛢️ SQL (PostgreSQL, MySQL)  
+- 📈 Statistics & Machine Learning  
+- 🎨 Digital Art (Illustrator)  
+- 📊 Data Visualization & Storytelling  
+- 🤖 Predictive Modeling & Business Intelligence  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎨 **Creative Works**
+✨ Exploring **data-driven design & AI-powered visuals**  
+📸 Passionate about **digital art, minimalistic design, and vector illustrations**  
+
+---
+
+### 🎯 **Currently Exploring**
+- Advanced Machine Learning & AI  
+- Data Analytics & Business Intelligence  
+- Creativity 
+
+---
+
+### 📌 **Portfolio & Projects**
+🚀 Check out my projects below!  
+🔗 [Portfolio Website](#) *(coming soon!)*  
+📂 [GitHub Repositories](https://github.com/kintanpitaloka)  
+
+---
+
+### 🌎 **Let's Connect!**
+💌 Email: [kintanpitaloka529@gmail.com](mailto:kintanpitaloka529@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/kintanpitaloka](#)  
+🎨 Instagram (Design): [@kintanp.design](#) *(optional)*  
+📸 Microstock: [Shutterstock Profile](#) *(optional)*  
+
+---
+
+⭐ *"Combining data, creativity, and technology to create impactful solutions!"*  
