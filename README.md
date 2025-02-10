@@ -19,6 +19,20 @@
   
 ---
 
+### 🛠️ **Code Explorer & Projects**
+
+📊 **Most Used Languages:**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kintanpitaloka&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+🔥 **GitHub Streaks:**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kintanpitaloka&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🌎 **Let's Connect!**
 💌 Email: [kintanpitaloka529@gmail.com](#)
 💼 LinkedIn: [linkedin.com/in/kintanpitaloka](#)
