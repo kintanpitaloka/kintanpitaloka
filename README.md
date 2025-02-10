@@ -31,14 +31,14 @@
 ### 📌 **Portfolio & Projects**
 🚀 Check out my projects below!  
 🔗 [Portfolio Website](#) *(coming soon!)*  
-📂 [GitHub Repositories](https://github.com/kintanpitaloka)  
+📂 [GitHub Repositories](https://github.com/kintanpitaloka) 
 
 ---
 
 ### 🌎 **Let's Connect!**
-💌 Email: [kintanpitaloka529@gmail.com]
-💼 LinkedIn: [linkedin.com/in/kintanpitaloka]
-🎨 piterest : [pinterest.com/kintanpitalokaa]
+💌 Email: [kintanpitaloka529@gmail.com](#)
+💼 LinkedIn: [linkedin.com/in/kintanpitaloka](#)
+🎨 piterest : [pinterest.com/kintanpitalokaa](#)
 
 ---
 
